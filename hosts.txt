@@ -1,0 +1,10 @@
+# Scratch is bad!
+
+127.0.0.1 api.scratch.mit.edu
+127.0.0.1 assets.scratch.mit.edu
+127.0.0.1 backpack.scratch.mit.edu
+127.0.0.1 projects.scratch.mit.edu
+127.0.0.1 download.scratch.mit.edu
+127.0.0.1 clouddata.scratch.mit.edu
+127.0.0.1 cdn2.scratch.mit.edu
+127.0.0.1 cdn.scratch.mit.edu
