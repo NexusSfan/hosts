@@ -9,3 +9,5 @@
 127.0.0.1 cdn2.scratch.mit.edu
 127.0.0.1 cdn.scratch.mit.edu
 127.0.0.1 scratch.mit.edu
+127.0.0.1 dsco.code.org
+127.0.0.1 code.org
