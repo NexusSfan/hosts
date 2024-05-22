@@ -4,10 +4,13 @@
 127.0.0.1 assets.scratch.mit.edu
 127.0.0.1 backpack.scratch.mit.edu
 127.0.0.1 projects.scratch.mit.edu
+127.0.0.1 uploads.scratch.mit.edu
 127.0.0.1 download.scratch.mit.edu
 127.0.0.1 clouddata.scratch.mit.edu
 127.0.0.1 cdn2.scratch.mit.edu
 127.0.0.1 cdn.scratch.mit.edu
 127.0.0.1 scratch.mit.edu
+
+# Code.org SUCKS!!!
 127.0.0.1 dsco.code.org
 127.0.0.1 code.org
