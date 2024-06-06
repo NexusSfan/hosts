@@ -14,4 +14,3 @@
 127.0.0.1 www.code.org
 127.0.0.1 copyright.gov
 127.0.0.1 www.copyright.gov
-192.168.86.152 rpi
