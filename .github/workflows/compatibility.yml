@@ -10,11 +10,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.6
+      - name: Setup Python
+        uses: actions/setup-python@v5.1.0
+        with:
+          python-version: 3.11
       - name: Convert to No IP address format
         shell: bash
         run: |
           chmod +x ./scripts/*
-          ./scripts/convert_noip.sh
+          ./scripts/convert_noip.py
       - name: Commit changes
         run: |
           git config --global user.name 'Compatibility Module'
