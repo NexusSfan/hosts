@@ -1,0 +1,16 @@
+api.scratch.mit.edu
+assets.scratch.mit.edu
+backpack.scratch.mit.edu
+projects.scratch.mit.edu
+uploads.scratch.mit.edu
+download.scratch.mit.edu
+clouddata.scratch.mit.edu
+cdn2.scratch.mit.edu
+cdn.scratch.mit.edu
+scratch.mit.edu
+www.scratch.mit.edu
+dsco.code.org
+code.org
+www.code.org
+copyright.gov
+www.copyright.gov
