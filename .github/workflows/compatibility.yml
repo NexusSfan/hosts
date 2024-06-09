@@ -22,6 +22,5 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.name 'Compatibility Module'
-          git config --global user.email 'nexussfan@users.noreply.github.com'
           git commit -am "Convert to No IP"
           git push
