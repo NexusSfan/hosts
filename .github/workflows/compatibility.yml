@@ -17,6 +17,7 @@ jobs:
       - name: Convert to No IP address format
         shell: bash
         run: |
+          rm ./hosts_noip.txt
           chmod +x ./scripts/*
           ./scripts/convert_noip.py
       - name: Commit changes
