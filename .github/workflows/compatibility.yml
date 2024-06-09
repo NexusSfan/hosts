@@ -17,6 +17,7 @@ jobs:
       - name: Convert to No IP address format
         shell: bash
         run: |
+          git branch --set-upstream-to origin/master
           rm $GITHUB_WORKSPACE/hosts_noip.txt
           chmod +x ./scripts/*
           ./scripts/convert_noip.py
