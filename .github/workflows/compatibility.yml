@@ -22,8 +22,30 @@ jobs:
           ./scripts/convert_noip.py
       - name: Commit changes
         run: |
-          git config --global user.name 'Compatibility Module'
+          git config --global user.name 'NexusSfan'
           git config --global user.email 'nexussfan@duck.com'
           git add .
           git commit -am "Convert to No IP"
+          git push
+  convert_adguard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.6
+      - name: Setup Python
+        uses: actions/setup-python@v5.1.0
+        with:
+          python-version: 3.11
+      - name: Convert to No IP address format
+        shell: bash
+        run: |
+          git rm ./hosts_adguard.txt
+          chmod +x ./scripts/*
+          ./scripts/convert_adguard.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'NexusSfan'
+          git config --global user.email 'nexussfan@duck.com'
+          git add .
+          git commit -am "Convert to AdGuard Home"
           git push
