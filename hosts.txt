@@ -7,8 +7,8 @@
 0.0.0.0 clouddata.scratch.mit.edu
 0.0.0.0 cdn2.scratch.mit.edu
 0.0.0.0 cdn.scratch.mit.edu
-0.0.0.0 scratch.mit.edu
 0.0.0.0 www.scratch.mit.edu
+0.0.0.0 scratch.mit.edu
 0.0.0.0 dsco.code.org
 0.0.0.0 code.org
 0.0.0.0 www.code.org
