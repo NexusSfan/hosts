@@ -8,6 +8,10 @@ jobs:
   convert_noip:
     runs-on: ubuntu-latest
     steps:
+      - name: Let other job complete?
+        shell: bash
+        run: |
+          sleep 5
       - name: Checkout
         uses: actions/checkout@v4.1.6
       - name: Setup Python
