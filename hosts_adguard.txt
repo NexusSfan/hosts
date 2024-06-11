@@ -7,8 +7,8 @@
 ||clouddata.scratch.mit.edu^
 ||cdn2.scratch.mit.edu^
 ||cdn.scratch.mit.edu^
-||scratch.mit.edu^
 ||www.scratch.mit.edu^
+||scratch.mit.edu^
 ||dsco.code.org^
 ||code.org^
 ||www.code.org^
