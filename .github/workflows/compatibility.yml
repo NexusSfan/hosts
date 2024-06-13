@@ -26,8 +26,8 @@ jobs:
           ./scripts/convert_noip.py
       - name: Commit changes
         run: |
-          git config --global user.name 'NexusSfan'
-          git config --global user.email 'nexussfan@duck.com'
+          git config --global user.name 'github-actions'
+          git config --global user.email github-actions[bot]@users.noreply.github.com
           git add .
           git commit -am "Convert to No IP"
           git push
