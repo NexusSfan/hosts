@@ -1,12 +1,3 @@
-0.0.0.0 api.scratch.mit.edu
-0.0.0.0 assets.scratch.mit.edu
-0.0.0.0 backpack.scratch.mit.edu
-0.0.0.0 projects.scratch.mit.edu
-0.0.0.0 uploads.scratch.mit.edu
-0.0.0.0 download.scratch.mit.edu
-0.0.0.0 clouddata.scratch.mit.edu
-0.0.0.0 cdn2.scratch.mit.edu
-0.0.0.0 cdn.scratch.mit.edu
 0.0.0.0 www.scratch.mit.edu
 0.0.0.0 scratch.mit.edu
 0.0.0.0 dsco.code.org
