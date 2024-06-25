@@ -1,1 +1,9 @@
-dummy
+server=/www.scratch.mit.edu/
+server=/scratch.mit.edu/
+server=/dsco.code.org/
+server=/code.org/
+server=/www.code.org/
+server=/copyright.gov/
+server=/www.copyright.gov/
+# Refrence: https://www.freewebhostingarea.com/images/poweredby.png /
+server=/www.freewebhostingarea.com/
