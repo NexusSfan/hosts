@@ -5,5 +5,5 @@
 ||www.code.org^
 ||copyright.gov^
 ||www.copyright.gov^
-# Refrence: https://www.freewebhostingarea.com/images/poweredby.png ^
+# To block ads from this link: https://www.freewebhostingarea.com/images/poweredby.png ^
 ||www.freewebhostingarea.com^
