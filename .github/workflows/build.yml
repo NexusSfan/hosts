@@ -1,8 +1,8 @@
-name: compatibility
+name: build
 
 on:
   push:
-  workflow_call:
+  workflow_dispatch:
 
 jobs:
   convert-adguard:
