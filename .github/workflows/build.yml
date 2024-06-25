@@ -8,6 +8,8 @@ jobs:
   convert-adguard:
     uses: NexusSfan/hosts/.github/workflows/convert_adguard.yml@dev
   convert-dnsmasq:
+    needs: convert-adguard
     uses: NexusSfan/hosts/.github/workflows/convert_dnsmasq.yml@dev
   deploy:
+    needs: [convert-dnsmasq, convert-adguard]
     uses: NexusSfan/hosts/.github/workflows/static.yml@dev
