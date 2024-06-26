@@ -1,4 +1,5 @@
 ||www.scratch.mit.edu^
+||backpack.scratch.mit.edu^
 ||scratch.mit.edu^
 ||dsco.code.org^
 ||code.org^
