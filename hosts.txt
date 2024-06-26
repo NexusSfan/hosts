@@ -1,4 +1,5 @@
 0.0.0.0 www.scratch.mit.edu
+0.0.0.0 backpack.scratch.mit.edu
 0.0.0.0 scratch.mit.edu
 0.0.0.0 dsco.code.org
 0.0.0.0 code.org
